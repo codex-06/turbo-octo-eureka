@@ -1,3 +1,6 @@
  hi i am the new text 1
+
+
+i am from side1 branch
 --INSERT--
 
