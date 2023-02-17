@@ -1,6 +1,0 @@
- hi i am the new text 1
-
-i am from the main branch
-
---INSERT--
-
